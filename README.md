@@ -1,11 +1,15 @@
+<p align="center">
+  <img src="https://capsule-render.vercel.app/api?type=waving&height=100&color=0:D3D3D3,100:1e1e1e&section=header" />
+</p>
+
 <!-- Cyberpunk Neon Banner -->
 <p align="center">
-  <img src="[https://capsule-render.vercel.app/api?type=rect&color=0:0ff7ff,100:6a00ff&height=120&section=header&text=Bhaskar%20Parab&fontSize=45&fontColor=ffffff&fontAlignY=55&desc=Frontend%20Developer%20%7C%20React%20%7C%20Redux%20%7C%20TypeScript&descAlignY=80](https://capsule-render.vercel.app/api?type=slice&height=300&color=D3D3D3&text=Bhaskar%20Parab&fontColor=1e1e1e)" />
+  <img src="https://capsule-render.vercel.app/api?type=transparent&height=70&color=D3D3D3&text=Bhaskar%20Parab&fontColor=FFFF" />
 </p>
 
 <!-- Animated Typing -->
 <p align="center">
-  <img src="https://readme-typing-svg.demolab.com?font=Fira+Code&size=28&duration=2500&pause=900&color=00F7FF&center=true&vCenter=true&width=900&lines=Frontend+Developer+%7C+React+%7C+Redux+%7C+TypeScript;Linux+Enthusiast+%7C+Problem+Solver;Building+Clean+UI%2FUX+and+High-Quality+Apps" />
+  <img src="https://readme-typing-svg.demolab.com?font=Fira+Code&size=28&duration=2500&pause=900&color=FFFF&center=true&vCenter=true&width=900&lines=Frontend+Developer+%7C+React+%7C+Redux+%7C+TypeScript;Linux+Enthusiast+%7C+Problem+Solver;Building+Clean+UI%2FUX+and+High-Quality+Apps" />
 </p>
 
 ---
@@ -35,36 +39,16 @@
 
 ---
 
-# 📈 GitHub Analytics
-
-<p align="center">
-  <img height="165" src="https://github-readme-stats.vercel.app/api?username=BhaskarParab&show_icons=true&theme=tokyonight&hide_border=true" />
-  <img height="165" src="https://github-readme-stats.vercel.app/api/top-langs/?username=BhaskarParab&layout=compact&theme=tokyonight&hide_border=true" />
-</p>
-
-<p align="center">
-  <img src="https://streak-stats.demolab.com?user=BhaskarParab&theme=tokyonight&hide_border=true" />
-</p>
-
----
-
 # 🌐 Connect with Me
-
 <p align="center">
   <a href="https://github.com/BhaskarParab"><img src="https://img.shields.io/badge/GitHub-000?style=for-the-badge&logo=github&logoColor=white" /></a>
-  <a href="https://linkedin.com/in/your-link"><img src="https://img.shields.io/badge/LinkedIn-0A66C2?style=for-the-badge&logo=linkedin&logoColor=white" /></a>
-  <a href="mailto:your-email@gmail.com"><img src="https://img.shields.io/badge/Email-D14836?style=for-the-badge&logo=gmail&logoColor=white" /></a>
-</p>
-
----
-
-<p align="center">
-  <img src="https://komarev.com/ghpvc/?username=BhaskarParab&style=flat-square&color=brightgreen" />
+  <a href="https://www.linkedin.com/in/bhaskar-parab-81193a28a/"><img src="https://img.shields.io/badge/LinkedIn-0A66C2?style=for-the-badge&logo=linkedin&logoColor=white" /></a>
+  <a href="mailto:digital.bhaskarparab@gmail.com"><img src="https://img.shields.io/badge/Email-D14836?style=for-the-badge&logo=gmail&logoColor=white" /></a>
 </p>
 
 ---
 
 <!-- Neon Cyberpunk Footer -->
 <p align="center">
-  <img src="https://capsule-render.vercel.app/api?type=waving&height=120&color=0:6a00ff,100:00f7ff&section=footer" />
+  <img src="https://capsule-render.vercel.app/api?type=waving&height=100&color=0:D3D3D3,100:1e1e1e&section=footer" />
 </p>

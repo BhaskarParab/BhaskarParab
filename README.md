@@ -102,6 +102,13 @@
 </p>
 
 ---
+# For Employer
+
+<a href="https://drive.google.com/drive/u/0/folders/1YOUBQGtRUIYaSkXuC_M06A8jkj_4W-M7">
+  <img src="https://img.shields.io/badge/Resume-4285F4?style=for-the-badge&logo=googledrive&logoColor=white" />
+</a>
+
+---
 
 <!-- Neon Cyberpunk Footer -->
 <p align="center">

@@ -9,12 +9,12 @@
 
 <!-- Animated Typing -->
 <p align="center">
-  <img src="https://readme-typing-svg.demolab.com?font=Fira+Code&size=28&duration=2500&pause=900&color=FFFF&center=true&vCenter=true&width=900&lines=Frontend+Developer+%7C+React+%7C+Redux+%7C+TypeScript;Linux+Enthusiast+%7C+Problem+Solver;Building+Clean+UI%2FUX+and+High-Quality+Apps" />
+  <img src="https://readme-typing-svg.demolab.com?font=DM+Sans&size=28&duration=2500&pause=900&color=FFFF&center=true&vCenter=true&width=900&lines=Frontend+Developer+%7C+React+%7C+Redux+%7C+TypeScript;Linux+Enthusiast+%7C+Problem+Solver;Building+Clean+UI%2FUX+and+High-Quality+Apps" />
 </p>
 
 ---
 
-# 👨‍💻 About Me
+# About Me
 
 - 🔭 Currently working on **React + Redux Toolkit + TypeScript projects**  
 - ⚡ Passionate about **frontend architecture, clean UI, problem-solving**  
@@ -25,9 +25,9 @@
 
 ---
 
-# 🛠️ Tech Stack
+# Tech Stack
 
-### 🚀 Frontend Development  
+### Frontend Development  
 <p align="left">
   <a href="https://react.dev/"><img src="https://skillicons.dev/icons?i=react" /></a>
   <a href="https://redux-toolkit.js.org/"><img src="https://skillicons.dev/icons?i=redux" /></a>
@@ -40,7 +40,7 @@
 </p>
 
 
-### 🧰 Tools, Platforms & Others  
+### Tools, Platforms & Others  
 <p align="left">
 
   <!-- Git -->
@@ -88,7 +88,6 @@
 </a>
 
 </p>
-
 
 ---
 

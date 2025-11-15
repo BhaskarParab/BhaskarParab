@@ -1,70 +1,15 @@
-<bold>Hi, I am Bhaskar Parab<bold/>
+<h1 align="center">Hi 👋, I'm Bhaskar parab</h1>
+<h3 align="center">frontend developer from India</h3>
 
-# 🌟 About Me
-- 🔭 Currently working on building **React + Redux + TypeScript** projects  
-- 🌱 Learning **frontend architecture, clean code, and UI problem-solving**  
-- 👯 Looking to collaborate on **modern web apps & open-source projects**  
-- 💬 Ask me about **React, Redux Toolkit, TypeScript, or Web Performance**  
-- ⚡ Fun fact: I love exploring **Linux**, **window managers**, and minimal setups  
-- 🎯 Goal 2025: Become a stronger **full-stack** and **open-source** contributor
+- 🌱 I’m currently learning **next.js**
 
----
+- 💬 Ask me about **react, redux, typescript**
 
-# 🛠️ Tech Stack
+- 📫 How to reach me **digital.bhaskarparab@gmail.com**
 
-### 🚀 Frontend
+<h3 align="left">Connect with me:</h3>
 <p align="left">
-  <img src="https://skillicons.dev/icons?i=react,redux,ts,js,html,css,tailwind,materialui,vite" />
 </p>
 
-### 🧰 Tools & Platforms
-<p align="left">
-  <img src="https://skillicons.dev/icons?i=git,github,linux,bash,figma,webpack,npm,yarn" />
-</p>
-
----
-
-# 📌 Current Projects
-- 💰 **Personal Finance Manager** — analytics, charts, state management  
-- 🎬 **Movie Explorer (TMDB)** — search, filters, infinite scroll  
-- 📝 **Quiz App** — timer, scoring, redux-driven flow  
-- 📊 **HeartView Dashboard** (your project) — data filtering + UI  
-- 🔐 **React Auth System** — login, register, protected routes  
-
----
-
-# 📈 GitHub Stats
-
-<p align="center">
-  <img src="https://github-readme-stats.vercel.app/api?username=BhaskarParab&show_icons=true&theme=tokyonight" height="165" />
-  <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=BhaskarParab&layout=compact&theme=tokyonight" height="165" />
-</p>
-
-<p align="center">
-  <img src="https://streak-stats.demolab.com?user=BhaskarParab&theme=tokyonight&hide_border=true" />
-</p>
-
----
-
-# 🌐 Connect with Me
-<p>
-  <a href="https://github.com/BhaskarParab">
-    <img src="https://img.shields.io/badge/GitHub-000?style=for-the-badge&logo=github&logoColor=white" />
-  </a>
-  <a href="https://linkedin.com/in/your-link">
-    <img src="https://img.shields.io/badge/LinkedIn-0A66C2?style=for-the-badge&logo=linkedin&logoColor=white" />
-  </a>
-  <a href="mailto:your-email@gmail.com">
-    <img src="https://img.shields.io/badge/Email-D14836?style=for-the-badge&logo=gmail&logoColor=white" />
-  </a>
-</p>
-
----
-
-<p align="center">
-  <img src="https://komarev.com/ghpvc/?username=BhaskarParab&style=flat-square&color=brightgreen" />
-</p>
-
----
-
-### ⭐ Don't forget to star interesting repositories!
+<h3 align="left">Languages and Tools:</h3>
+<p align="left"> <a href="https://getbootstrap.com" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/bootstrap/bootstrap-plain-wordmark.svg" alt="bootstrap" width="40" height="40"/> </a> <a href="https://www.w3schools.com/css/" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/css3/css3-original-wordmark.svg" alt="css3" width="40" height="40"/> </a> <a href="https://git-scm.com/" target="_blank" rel="noreferrer"> <img src="https://www.vectorlogo.zone/logos/git-scm/git-scm-icon.svg" alt="git" width="40" height="40"/> </a> <a href="https://www.w3.org/html/" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/html5/html5-original-wordmark.svg" alt="html5" width="40" height="40"/> </a> <a href="https://developer.mozilla.org/en-US/docs/Web/JavaScript" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/javascript/javascript-original.svg" alt="javascript" width="40" height="40"/> </a> <a href="https://www.linux.org/" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/linux/linux-original.svg" alt="linux" width="40" height="40"/> </a> <a href="https://reactjs.org/" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/react/react-original-wordmark.svg" alt="react" width="40" height="40"/> </a> <a href="https://redux.js.org" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/redux/redux-original.svg" alt="redux" width="40" height="40"/> </a> <a href="https://tailwindcss.com/" target="_blank" rel="noreferrer"> <img src="https://www.vectorlogo.zone/logos/tailwindcss/tailwindcss-icon.svg" alt="tailwind" width="40" height="40"/> </a> <a href="https://www.typescriptlang.org/" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/typescript/typescript-original.svg" alt="typescript" width="40" height="40"/> </a> </p>

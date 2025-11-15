@@ -1,9 +1,4 @@
-<!-- Banner -->
-<p align="center">
-  <img src="https://readme-typing-svg.demolab.com?font=Fira+Code&size=32&duration=2500&pause=1000&color=00F7FF&center=true&vCenter=true&width=800&lines=Hey+there!+I'm+Bhaskar+Parab+👋;Frontend+Developer+%7C+React+%7C+Redux+%7C+TypeScript;I+love+building+clean+UI+and+solving+problems" alt="Typing SVG" />
-</p>
-
----
+<bold>Hi, I am Bhaskar Parab<bold/>
 
 # 🌟 About Me
 - 🔭 Currently working on building **React + Redux + TypeScript** projects  

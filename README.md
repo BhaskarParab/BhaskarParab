@@ -1,6 +1,6 @@
 <!-- Cyberpunk Neon Banner -->
 <p align="center">
-  <img src="https://capsule-render.vercel.app/api?type=rect&color=0:0ff7ff,100:6a00ff&height=120&section=header&text=Bhaskar%20Parab&fontSize=45&fontColor=ffffff&fontAlignY=55&desc=Frontend%20Developer%20%7C%20React%20%7C%20Redux%20%7C%20TypeScript&descAlignY=80" />
+  <img src="[https://capsule-render.vercel.app/api?type=rect&color=0:0ff7ff,100:6a00ff&height=120&section=header&text=Bhaskar%20Parab&fontSize=45&fontColor=ffffff&fontAlignY=55&desc=Frontend%20Developer%20%7C%20React%20%7C%20Redux%20%7C%20TypeScript&descAlignY=80](https://capsule-render.vercel.app/api?type=slice&height=300&color=D3D3D3&text=Bhaskar%20Parab&fontColor=1e1e1e)" />
 </p>
 
 <!-- Animated Typing -->
